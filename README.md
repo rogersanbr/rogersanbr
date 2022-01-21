@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [rogersanbr](rogersanbr)
 
-- 📝 I regularly write articles on [rogerio-dos-santos.com](rogerio-dos-santos.com)
+- 📝 I regularly write articles on [rogerio-dos-santos.com](https://www.rogerio-dos-santos.com)
 
 - 💬 Ask me about **Angular, React or Node**
 
