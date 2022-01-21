@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Rogério</h1>
+<h1 align="center">Hi 👋, I'm Rogério</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working on [CS50 Final Project](https://github.com/rogersanbr/cs50/tree/main/week-11-final/hangman)
