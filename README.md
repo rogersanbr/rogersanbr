@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [rogersanbr](rogersanbr)
+- 👨‍💻 All of my projects are available at [rogersanbr](https://github.com/rogersanbr)
 
 - 📝 I regularly write articles on [rogerio-dos-santos.com](https://www.rogerio-dos-santos.com)
 
