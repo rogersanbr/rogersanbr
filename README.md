@@ -1,14 +1,17 @@
-Olá, sou o Rogério | Hi, I am Rogério
+Olá, sou o Rogério
 
-Um desenvolvedor frontend do Brasil | A frontend developer from Brazil 
-
-_pt_:
+Um desenvolvedor frontend do Brasil
 
 Construo aplicações web ricas e inovadoras com [Angular](https://angular.io).
 
 Tenho dois cachorros e uma linda esposa, gosto de jogar Nintendo Switch e [jogos indie de vez em quando](https://steamcommunity.com/id/rogeriodossantos/).
 
-_en_:
+
+**_en_**:
+
+Hi, I am Rogério!
+
+A frontend developer from Brazil.
 
 I build rich and innovative web apps with [Angular](https://angular.io).
 
