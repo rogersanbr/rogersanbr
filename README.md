@@ -1,6 +1,6 @@
-Olá, sou o Rogério
+Olá, sou o Rogério.
 
-Um desenvolvedor frontend do Brasil
+Um desenvolvedor frontend do Brasil.
 
 Construo aplicações web ricas e inovadoras com [Angular](https://angular.io).
 
