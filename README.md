@@ -1,6 +1,6 @@
 Olá, sou o Rogério dos Santos.
 
-Trabalho com desenvolvimento de sistemas para Web desde 2014.
+Trabalho como Desenvolvedor Web desde 2014.
 
 Contruo aplicações web modernas com [Angular](https://angular.io).
 
